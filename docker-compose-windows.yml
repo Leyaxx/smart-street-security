@@ -1,7 +1,0 @@
-services:
-  smartstreet:
-    image: pct-smartstreet
-    ports:
-      - "4002:3001"
-    restart: unless-stopped
-    container_name: smart-street-security

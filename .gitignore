@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.env
+*.tar
+MEMOIRE-PCT-2026.docx
